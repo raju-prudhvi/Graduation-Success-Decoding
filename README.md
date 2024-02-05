@@ -17,8 +17,3 @@ Navigating the Educational Landscape: Insights into University Selection, Fundin
 Regional academic disparities in the U.S. are evident as institutions showcase distinct funding patterns per award. Institutional characteristics impact SAT scores, highlighting a correlation between academic focus and achievement. Combining these factors reveals a positive connection between SAT scores and awards, suggesting higher SAT score schools are more generous.
 
 Analysis unveils graduation rate patterns, with Rhode Island consistently leading and Northeastern private nonprofits outperforming. Two-year private for-profit and four-year private not-for-profit institutions maintain high graduation rates. Geographically, New York leads in 4-year colleges, while California leads in 2-year colleges.
-
-## Reference
-SAT score level classification: https://blog.prepscholar.com/sat-score-range
-US Department of Education: https://nces.ed.gov/pubs2019/2019119.pdf
-Region Split Up in the USA: https://www.mappr.co/political-maps/us-regions-map/
